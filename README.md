@@ -25,7 +25,7 @@
 
 ## Take a Look at My Projects 🕶️
 
- ### 🤖 [GitBabie - An AI Assistant for Smooth File Understanding](https://github.com/Jaryang/GitBabie)
+ ### 🤖 [GitBabie - an AI Assistant for Smooth File Understanding](https://github.com/Jaryang/GitBabie)
 
 > ### Overview
 >
