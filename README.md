@@ -53,7 +53,6 @@
 - **Comprehensive Risk & Development Monitoring:** Provides short-term monitoring and long-term trend analysis for all countries.  
 - **Multi-Source Data Integration:** Captures global risk indices, newsfeeds, event-based data, and UNDP programme information.  
 - **User-Friendly Visualization:** Translates complex data into interactive and visual formats for easy interpretation.  
-- **Intranet Accessibility:** Available to all UNDP staff via the internal network.  
 - **Customized Country & Regional Analysis:** Tailored Country Risk Dashboards (CRDs) provide in-depth, context-specific insights.  
 - **Collaborative & Interagency Sharing:** Country CRDs facilitate information sharing and joint analysis across UN Country Teams.  
 
