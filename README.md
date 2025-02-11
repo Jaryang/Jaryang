@@ -42,6 +42,7 @@
 
 ![image](https://github.com/user-attachments/assets/4b15d353-ba00-429f-aad5-0777fbaf0049)
 
+ 
  ### 🌎 [Crisis Risk Dashboard (CRD) - a Data Analytics and Visualization platform for Socioeconomic Risk Analysis ](https://data.undp.org/products/crisis-risk-dashboard)
 
 > ### Overview
