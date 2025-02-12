@@ -76,7 +76,7 @@
 ![image](https://github.com/user-attachments/assets/389294a9-c85a-424f-a215-2733e1d635ac)
 
 
-### 🏥 [Disease Detection - Predicting Pneumonia from X-Ray Image](https://github.com/Jaryang/Pneumonia-Prediction-from-X-Ray)
+### 🏥 [Disease Detection - Predicting Pneumonia from X-Ray Image](https://github.com/Jaryang/Pneumonia-Prediction-from-X-Ray/blob/main/pneumonia_final_paper.pdf)
 
 > ### Overview
 >
