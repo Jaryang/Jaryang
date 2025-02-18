@@ -3,7 +3,7 @@
 >`💫 Welcome to my data universe! 💫`
 
 ## About me  🦹🏻
-> 🧑🏻‍💻 **With nearly 6 years of experience in data analytics & social research, with expertise in finance, healthcare, and public policy**
+> 🧑🏻‍💻 **With nearly 6 years of experience in data analytics & social research, with expertise in finance, healthcare, media analytics, and public policy**
 >
 > 🧑🏻‍🎨 **I'm good at:** Machine Larning, Statistical Experiment Design, Data Visualization, and Web Development
 >
